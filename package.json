@@ -34,8 +34,8 @@
     "url": "https://github.com/haryomidey/react-typeflux.git"
   },
   "scripts": {
-    "build": "vite build",
-    "dev": "vite",
+    "build": "node api.js && vite build",
+    "dev": "node api.js && vite",
     "preview": "vite preview"
   },
   "peerDependencies": {
