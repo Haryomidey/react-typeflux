@@ -83,6 +83,14 @@ To build for production:
 npm run build
 ```
 
-## 📄 License
+---
 
-MIT © [codebase_11](https://github.com/haryomidey)
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 👤 Author
+
+**Ayotech** – [Portfolio](https://portfolio-six-flax-15.vercel.app/)
